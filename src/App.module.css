@@ -1,0 +1,16 @@
+.wrapper {
+    margin: 0 auto;
+    max-width: 1200px;
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0);
+    border-right: solid 1px white;
+    border-left: solid 1px white;
+}
+
+.paragraf {
+    color: rgb(255, 61, 171);
+}
+
+p {
+    padding-top: 30px;
+}
